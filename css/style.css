@@ -1,0 +1,13 @@
+*{
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(224, 224, 224);
+    text-align: center;
+    color: darkcyan;
+}
+button{
+    border: none;
+    color: white;
+    background-color: darkcyan;
+}
